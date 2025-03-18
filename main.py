@@ -1,3 +1,4 @@
+#Github: https://github.com/indr3kk/Ylessane4Pall/blob/a2191c7db4c49e0c7d81914b7ec00c3b3da9654e/main.py#L1
 import pygame, sys , random
 
 #pygame.init()
